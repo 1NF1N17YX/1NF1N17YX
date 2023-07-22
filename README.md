@@ -1,4 +1,4 @@
-![3492868](https://github.com/1NF1N17YX/1NF1N17YX/assets/131818684/fae31b9f-715c-498a-beb4-9d5b6205bb8b |50)
+![3492868](https://github.com/1NF1N17YX/1NF1N17YX/assets/131818684/fae31b9f-715c-498a-beb4-9d5b6205bb8b)
 
 - 👋 Hi, I’m @1NF1N17YX
 - 👀 I’m interested in programming networking linux and cybersecurity 
