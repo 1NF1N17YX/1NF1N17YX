@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming networking linux and cybersecurity 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me I'll add an email later
+- 📫 How to reach me I'll add my email later
 
 <!---
 1NF1N17YX/1NF1N17YX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
