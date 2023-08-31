@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1NF1N17YX
+- 👋 Hi, I’m 1NF1N17YX
 - 👀 I’m interested in programming networking linux and cybersecurity 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on anything related to my interests
