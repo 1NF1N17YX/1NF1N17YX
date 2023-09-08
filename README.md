@@ -12,5 +12,4 @@
 1NF1N17YX/1NF1N17YX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- <script src="https://tryhackme.com/badge/611038"></script>
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/1NF1N17YX.png" alt="TryHackMe">
